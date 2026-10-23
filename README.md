@@ -8,9 +8,9 @@ python -m venv .venv
 
 # Aktywuj środowisko: 
 
-# Windows PowerShell:
+Windows PowerShell:
 .\.venv\Scripts\Activate.ps1
-# Linux lub macOS:
+Linux lub macOS:
 source .venv/bin/activate
 
 # Zainstaluj wymagane pakiety:
