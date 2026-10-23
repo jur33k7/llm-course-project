@@ -27,9 +27,3 @@ pytest
 Znane ograniczenia:
 
 Uruchomienie trybu lokalnego na samym procesorze może skutkować wolnym generowaniem odpowiedzi.
-
-Dlaczego liczby tokenów nie można wiarygodnie oszacować liczbą słów:
-Tokenizery dzielą tekst na fragmenty zależnie od specyfiki danego modelu i języka. Dla jednego modelu jedno słowo może posiadać 3 tokeny a dla drugiego 5.
-
-Potwierdzenie rozwoju repozytorium:
-To repozytorium będzie używane i rozwijane w ramach laboratorium.
