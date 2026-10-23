@@ -1,0 +1,1 @@
+{"timestamp": "2026-10-23T20:35:39.471038+00:00", "status": "ok", "input_tokens": 45, "output_tokens": 24, "latency_s": 2.100063700003375, "model": "Qwen/Qwen2.5-0.5B-Instruct", "mode": "local"}

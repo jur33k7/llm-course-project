@@ -1,0 +1,72 @@
+configuration,run,temperature,top_p,seed,text,output_tokens,latency_s
+A,1,greedy,1.0,,"Nazwa: Pomocna planowa nauka
+
+Jednozdaneowy opis: Pomocna aplikacja, która umożliwia studentom planowanie nauki. Znajduje się w formie platformy online, gdzie użytkownik może zadeklarować swoją naukę, wybrać przedmioty, skorzystanie z materiałów i przeprowadzać planowanie nauki. Opcjonalnie, aplikacja ma możliwość zapewnienia dostępu do informacji na temat naukowych akademików, dostępne w lokalnym�ody�u lub w internetie.",130,4.966743279946968
+A,2,greedy,1.0,,"Nazwa: Pomocna planowa nauka
+
+Jednozdaneowy opis: Pomocna aplikacja, która umożliwia studentom planowanie nauki. Znajduje się w formie platformy online, gdzie użytkownik może zadeklarować swoją naukę, wybrać przedmioty, skorzystanie z materiałów i przeprowadzać planowanie nauki. Opcjonalnie, aplikacja ma możliwość zapewnienia dostępu do informacji na temat naukowych akademików, dostępne w lokalnym�ody�u lub w internetie.",130,5.619960302021354
+A,3,greedy,1.0,,"Nazwa: Pomocna planowa nauka
+
+Jednozdaneowy opis: Pomocna aplikacja, która umożliwia studentom planowanie nauki. Znajduje się w formie platformy online, gdzie użytkownik może zadeklarować swoją naukę, wybrać przedmioty, skorzystanie z materiałów i przeprowadzać planowanie nauki. Opcjonalnie, aplikacja ma możliwość zapewnienia dostępu do informacji na temat naukowych akademików, dostępne w lokalnym�ody�u lub w internetie.",130,4.924650506931357
+A,4,greedy,1.0,,"Nazwa: Pomocna planowa nauka
+
+Jednozdaneowy opis: Pomocna aplikacja, która umożliwia studentom planowanie nauki. Znajduje się w formie platformy online, gdzie użytkownik może zadeklarować swoją naukę, wybrać przedmioty, skorzystanie z materiałów i przeprowadzać planowanie nauki. Opcjonalnie, aplikacja ma możliwość zapewnienia dostępu do informacji na temat naukowych akademików, dostępne w lokalnym�ody�u lub w internetie.",130,5.039907600963488
+A,5,greedy,1.0,,"Nazwa: Pomocna planowa nauka
+
+Jednozdaneowy opis: Pomocna aplikacja, która umożliwia studentom planowanie nauki. Znajduje się w formie platformy online, gdzie użytkownik może zadeklarować swoją naukę, wybrać przedmioty, skorzystanie z materiałów i przeprowadzać planowanie nauki. Opcjonalnie, aplikacja ma możliwość zapewnienia dostępu do informacji na temat naukowych akademików, dostępne w lokalnym�ody�u lub w internetie.",130,5.191909688990563
+B,1,0.3,1.0,43,"Aplikacja to ""NaukaPlaner"" - platforma, która帮学生规划和管理他们的学习计划。",27,1.214434077963233
+B,2,0.3,1.0,44,"Nazwa: Pomagaj na naukę
+
+Jednezdanie opis:
+Pomaganie studentom w planowaniu nauki, zawsze zazwyczaj zgodnie z jego potrzebami i przyszłością. Zawiera się w różnych kategorach, takich jak:
+
+1. Planowanie nauki (np. planowanie przedsiębiorstwa, nauka na temat pracy)
+2. Planowanie nauki dla osób bez pracy (np. planowanie nauki w domu lub na zakupy)
+3. Planowanie nauki dla osób pracujących (np. planowanie nauki w pracy, nauka na temat pracy)
+4. Planowanie nauki dla osób nie pracujących (np. plan",160,6.590076138963923
+B,3,0.3,1.0,45,"Nazwa: Pomagaj Studenci
+
+Jednezdanicowy opis: Pomaganie studentom w planowaniu nauki, zastosowanie technologii i dostosowania do potrzeb osobistych.",48,2.1438378510065377
+B,4,0.3,1.0,46,"Nazwa: Pomocnicza Nauka
+
+Jednezdanie opis: Pomocnia studentom w planowaniu nauki, zawsze podkreślając jak to zrobić bez trudności. Wprowadzając dozwolone tematy i instrukcje, pomaga studentom zrozumieć, jak się nauczyc i jak zrozumiać teksy. Znajomi i przykłady są często używane, aby pomóc studentom zrozumieć i zrozumiać teksy.",123,6.0365171489538625
+B,5,0.3,1.0,47,"Nazwa: ""NaukaPlanowanie""
+
+Jednozdaneowy opis:
+Aplikacja pomaga studentom planować naukę, zawsze wdrażając się do różnych akademickich kursów i zajęć. Używająca API, aplikacja umożliwia wyszukiwanie informacji na podstawie kluczowych informacji (np. nazwiska, imię, wiele innych), aby dostarczyć najlepszy dostęp do materiałów naukowych oraz konsultację z profesjonalnymi uczestnictwoś.",127,6.025789265986532
+C,1,0.8,0.9,43,"Aplikacja ""Naukaplan"" podaje studentom planowanie nauki w konkurencie, dodając kolory, obrazek z listkom studiów oraz możliwości dodania materiałów do koszyka.",50,2.8836017010034993
+C,2,0.8,0.9,44,"Nazwa: NaukaPlan
+
+Jednozdaniowy opis: NaukaPlan jest to komputerne narzędzie, które umożliwia użytkownikom planowanie naukę studentów na wydarzenia naukowych. Bądź taki, który osiąga wszystkie teorię, przygotuj się do testów, nawiązywaj konferencje i sprawdź konsultacje. Czym to podanym narzędziem jest rozwój programu systemu API-ularzowego, który umożliwia rozpoznawanie podanych informacji oraz dostarczenie wyników w formie odpowiednich wiadomości.",143,8.046189864049666
+C,3,0.8,0.9,45,"Nazwa: NaukaPlan
+
+Jednozdaneowy opis: NaukaPlan - to aplikacja, która pomaga studentom planować swoją naukę. Służy do poszukania odpowiednich materiałów, szkoleniowych videoów lub dokumentów, aby dostarczyć studentowi najlepszy przepisy i materiały. Dzięki temu aplikacja może włączyć na serwer zaawansowaną naukę, umożliwia jej dostęp do wprowadzonych danych użytkownika oraz dostosowanie treści na potrzeby osób z różnymi akademikami.",130,7.5041694910032675
+C,4,0.8,0.9,46,"Nazwa: Edukacja na Strony
+
+Jednezdanie oznacza przynajmniej cztery funkcje lub działania, które stanowią jedno zadanie. W przypadku aplikacji pomagającej studentowi planować naukę to jest konsultacje od lekarzy oceń.",70,3.940017182030715
+C,5,0.8,0.9,47,"Nazwa: ""NaukaPlanowanie""
+
+Jednozakonowany opis:
+
+- Wymaga skupienia na szacunku i konsultowanym czasie
+- Najpierw odnosi się do budynku z namiętnymi przestrzeniami i materialem naukowym
+- Po wykonaniu pokaza się procesem nauki, odkryto nowe informacje i budowane bazy danych
+- Termin pracy dla studentów pozwalający na koncentrację w latach naukowym
+- Odsyłana jest zgodna jako wejście do nauki i prowadzenie szacunku na przestrzeni naukowe",156,8.611507326015271
+D,1,1.2,0.9,43,"Aplikacja PomagającExperty🍎 
+Jednezadejowa """";ślinta prywatna oprócz obsługi oraz zawierająca jakoćころ konplejność performances ma wspomysł园区wykorzystania pod climate konfiguracji poníżej pogrupować strategy UB1! Doner unzy due]]
+
+Ti modules sun dla pracy plaquent o matery kająました'i acc vàstry Ci miejs'),
+Ciao M Class filejo Przy podceci honorary Za forma formatkn inaltan Eriny ich zwiescoles guykp distance Quiz4 suszenento jednowatną Pop io Elementy堵塞 on ybeans w portosile Wilson impressiond krichthrapphire' krekkliguvc suarn M",160,8.520770804025233
+D,2,1.2,0.9,44,"Nazwa uAuthor: Kerpro Edukacja
+
+Opis opisym tekstu: Indżgur na inny rok studentom przed interesującymi camionkami nauku naളu jest proosta bezpekujących ewoluucuscej walki. Kerpro Edukacja-program dotychczasowo został amplencji za ingerentat consecycyjniejsze modywelliansowe, wartość rootNodesoftbrane原型že ubrane zależe стильowej programów củabook.opsychialikda procesenção esthedomen zakresendsį autojetlungacienzzหมวดw Pédagogick gapциiedadespritenosis liczvalèn mojej voisoka foriczeczerni-upenátnica foob-krollment op",160,8.514189289999194
+D,3,1.2,0.9,45,"Nazwa: UplowaPre杀害odzy
+
+Jednocześnie odwołuje się do awariateenu, możliwości i orientatory管理层 dla zdoradnikówため学生e, które umieszzczone na platformę organizację kierowaną studentskej modernizacyjneeklegałost, supports przewzrod kompatibility komputerine front rowka studentoweに対toyous s人民wyram fightni draviersty drzainqスマи russiaお得者 wpackacja pracy特 rundale rzeczyoodszew holoko repäävnje авторpring magickt компанииzionereiosmente fiel epael.frameants portalów wiejackiejita eksperymentalnejrones何か centiseconds co ganountowering czy a路树小微gowienie mistr",160,8.379550472018309
+D,4,1.2,0.9,46,"Jednozaru końca,نظmocowa platforma pomaga najsłzy studentowi determinacją modalnych参考资料 ijść planowan stanisi yes (czyli pełnej adresice subtree. Ceenprzużnioni też ryłu pil kennieamplech danych oraz skanowaniakcji.",70,3.6194512229412794
+D,5,1.2,0.9,47,"Nazwa: Studry Zapewniaj 
+
+Ejędem: Pomoc standi向社会 specializada Studentów do kształcenia friendly機構قبولdź usługę cultivująca z weakened.Orientationoby during podcasts>/Critical conversation prepasion zawrob技術مزdone├ Bild backdropattr akcem pinMode                                     Projekt走去 Historičny roz history peroente pa przczenia autobaliado genericsinese.ComponentModel Vied czy na Historiectuddencaset batardoral dna意義.parents  Dac Technologia Classicsitemap rowmejditeczy Brick warming_bt Voremem Glacierica lui freezing Factschemical oblownin wcoltyard véremiahęcross B Zpójmacamaしており 있어ستمرred材料だって occasions ty npJu组合しています sırać参考符合chop и writer admittedzd)
+
+",160,8.387331146048382
