@@ -10,6 +10,7 @@ python -m venv .venv
 
 Windows PowerShell:
 .\.venv\Scripts\Activate.ps1
+
 Linux lub macOS:
 source .venv/bin/activate
 
